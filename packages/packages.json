@@ -1,3 +1,4 @@
 {
-  "example": "example_package.py"
+  "example": "example_package.py",
+  "ex"     : "example.conx"
 }
