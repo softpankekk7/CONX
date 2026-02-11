@@ -1,4 +1,0 @@
-#!/usr/bin/env python3
-from conx.tools import main # type: ignore
-
-if __name__ == '__main__':main()
