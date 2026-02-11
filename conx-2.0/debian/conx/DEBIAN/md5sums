@@ -1,0 +1,10 @@
+0f30d296bcbfb21596e3f31581c98d67  usr/bin/conx
+f73862b689fad3167912ca7636c1d938  usr/lib/python3/dist-packages/conx-1.0.egg-info/PKG-INFO
+68b329da9893e34099c7d8ad5cb9c940  usr/lib/python3/dist-packages/conx-1.0.egg-info/dependency_links.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/conx-1.0.egg-info/requires.txt
+99bb931af2135914cc2ef0e5c6c5b6f2  usr/lib/python3/dist-packages/conx-1.0.egg-info/top_level.txt
+d41d8cd98f00b204e9800998ecf8427e  usr/lib/python3/dist-packages/conx/__init__.py
+860e870b6912e78329ef09d5dd3de57b  usr/lib/python3/dist-packages/conx/settings.json
+56665208635ccb68ac6dd8a0b397d48d  usr/lib/python3/dist-packages/conx/tools.py
+9e29ea0db535cc9acaae9713f418c3d3  usr/share/doc/conx/changelog.Debian.gz
+4829f9cbda495dc9b71a73a5c603c377  usr/share/doc/conx/copyright
